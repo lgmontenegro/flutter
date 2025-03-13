@@ -1,0 +1,1 @@
+docker run -it --rm -v .:/app -w /app golang go run .
